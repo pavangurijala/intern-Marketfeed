@@ -19,5 +19,5 @@ This bash script (`log-monitor.sh`) is designed to automate the analysis and mon
 
 1. Save the script as `log-monitor.sh`.
 2. Make the script executable using the command: `chmod +x log-monitor.sh`.
-3. Run the script with the path to your log file as an argument:
-  './log-monitor.sh /path/to/logfile.log'
+3. Run the script with the path to your log file as an argument: `./log-monitor.sh /path/to/logfile.log`.
+ 
